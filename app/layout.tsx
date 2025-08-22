@@ -4,13 +4,13 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Phoenix Voyages Golf Tee Contest - Win a $250 Vacation Voucher',
-  description: 'Enter the Phoenix Voyages golf tee guessing contest for a chance to win a $250 vacation voucher. Guess the number of golf tees and win!',
+  title: 'Phoenix Voyages Contest - Win a $250 Vacation Voucher',
+  description: 'Enter the Phoenix Voyages contest for a chance to win a $250 vacation voucher. Enter your information to win!',
   generator: 'v0.dev',
-  keywords: 'phoenix voyages, contest, vacation voucher, golf tee contest, win vacation, travel contest',
+  keywords: 'phoenix voyages, contest, vacation voucher, win vacation, travel contest',
   openGraph: {
     title: 'Win a $250 Vacation Voucher!',
-    description: 'Guess the number of golf tees in the jar and win with Phoenix Voyages',
+    description: 'Enter your information to win with Phoenix Voyages',
     type: 'website',
   },
 }
